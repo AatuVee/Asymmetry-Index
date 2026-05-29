@@ -2,7 +2,7 @@
 
 Most volatility indicators treat upside and downside moves as equal — but they're not. The Asymmetry Index separates them, measuring whether an asset tends to move faster and harder up or down.
 
-<img width="1817" height="912" alt="kuva" src="https://github.com/user-attachments/assets/7691578f-7b25-42f0-b7e1-3bef669e4f3a" />
+<img width="1810" height="914" alt="kuva" src="https://github.com/user-attachments/assets/9a493a1b-3d9d-4115-8f09-92ce6704bdd2" />
 
 ## Metrics
 
