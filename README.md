@@ -57,6 +57,13 @@ Calibrated relative to RSP (S&P 500 Equal Weight ETF, benchmark ≈ 9.2):
 | Show Upside Index | true | Toggle UI line |
 | Show Reactivity | true | Toggle Reactivity line |
 
+You can find settings for the index by hovering your mouse over the legend section (Image 1), then pressing the settings button after that (image 2).
+
+<img width="231" height="292" alt="kuva" src="https://github.com/user-attachments/assets/d68bbda7-ba17-4325-936b-fb17e751f66d" /> 
+<img width="230" height="74" alt="kuva" src="https://github.com/user-attachments/assets/540b953a-f973-46f4-84c2-37665e0be030" />
+<img width="375" height="406" alt="kuva" src="https://github.com/user-attachments/assets/55532f57-cddd-4b39-aa24-96f4d4f1a70c" />
+
+
 ## Notes
 
 - Best used on the **Daily (1D)** timeframe — intraday results are not meaningful
