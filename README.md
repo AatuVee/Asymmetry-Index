@@ -8,10 +8,10 @@ Most volatility indicators treat upside and downside moves as equal — but they
 
 | Metric | Description |
 |--------|-------------|
-| **SI** (Sensitivity Index) | Intensity of downside streaks |
+| **DI** (Downside Index) | Intensity of downside streaks |
 | **UI** (Upside Index) | Intensity of upside streaks |
-| **Reactivity** | (SI + UI) / 2 — overall two-sided reactivity |
-| **Asymmetry** | UI / SI — the core metric |
+| **Reactivity** | (DI + UI) / 2 — overall two-sided reactivity |
+| **Asymmetry** | UI / DI — the core metric |
 
 ### Reading Asymmetry
 
